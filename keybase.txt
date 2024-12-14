@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/jwb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://paravolve.net
+  * I am jwb (https://keybase.io/jwb) on keybase.
+  * I have a public key with fingerprint EBF1 6C24 0814 A3E9 6E93  649C 1F25 D807 E484 C9B9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "ebf16c240814a3e96e93649c1f25d807e484c9b9",
+            "host": "keybase.io",
+            "key_id": "1F25D807E484C9B9",
+            "uid": "e283be97fb048515c3bc21415e018e00",
+            "username": "jwb"
+        },
+        "merkle_root": {
+            "ctime": 1415596788,
+            "hash": "06206e77454287e39da4809216e7a97b549830252bcd92e539caf8136045311cc56917b67d1136ff543e08721791f24a5e01e2d1ad3712fdd24c898ba9029941",
+            "seqno": 94010
+        },
+        "service": {
+            "hostname": "paravolve.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415596925,
+    "expire_in": 157680000,
+    "prev": "b977a87694c9b50211c4d498c4b356f9a2f89550638082bc7f065e61460ec0b5",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVUj1rFUEU3USNRhCMP0DDgjaGx3zP3CdYGCOIrY0gPGdm7yaTvOw+dzcvPsID
+ixSWBu1SmMLG0koE/QFiZScI2thY+B+ceUQ0U83ce+bMOefO8wunsvmlK1e/nv25
+/+n93OdfLrv/6N50L3d1Mcn7e7kfBqy6tKvsNub9fAsnzrbYC/VyVRfY22yXjzEr
++RibNtRVRJGe7rF8upLg6XIZqnVsRk1IXDm6kirPBDFUWI6gELgS4GnJZGGIRmGE
+BweRcqNuuxOv5jPOQShild5h8nbEr0X8KtxK+J1ZA5nhDkGXjggjqfTceUYFlUio
+QUISsMXm2NLmrktSt7HZGuKgqeuZX9+F1E23JChtTBRj241kTjGiUGshBTMaORRW
+GAKMxqIF7aQAwwmTzPkCGEoO3paGckWE5JR6LxVQ7ZQuaCyWpRQcidGMaogJCJtU
+IiuoLbimrCwKJrwB4ywQBiBoVN/i46rO+yAIJdN0bMbBY5KdAjv2NbKNHdfDMfYq
+TOMZNXVX+3oYWxtdN+on091klKC76AYzkjceBy5URZzX/wOlEXoyEGByJccno9Dg
+ICSE1MqQuNI7OI6cDrS2RitIs5SEReeiiNF44bhUJVhWGpCSKG6IiVnpkiiJigpF
+0BMn/9mkKgq165GzDeuV7XYazKfP1k5nS/PZwpn59GOz84sX/37j4WJ2tH/w6u7R
+wu+n566//HHw7mFZXep9yA7mDq+t3rj57UV4YPDt4esvlz9+/wM=
+=Jo1W
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jwb
+
+==================================================================
+
